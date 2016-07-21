@@ -1,4 +1,0 @@
-﻿  DllMain.cpp
-d:\cpp\testprocess\testdllproject\testdllproject\dllmain.cpp(22): warning C4715: “MessageBoxGetProcessId”: 不是所有的控件路径都返回值
-    正在创建库 D:\CPP\TestProcess\TestDllProject\Debug\TestDllProject.lib 和对象 D:\CPP\TestProcess\TestDllProject\Debug\TestDllProject.exp
-  TestDllProject.vcxproj -> D:\CPP\TestProcess\TestDllProject\Debug\TestDllProject.dll
